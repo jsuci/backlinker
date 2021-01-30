@@ -1,4 +1,4 @@
 # Backlinker
 
-### Build links using python and selenium.
+### Build links using UI.Vision RPA (Kantu)
 
